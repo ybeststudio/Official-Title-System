@@ -1,0 +1,23 @@
+
+
+TITLE_SYSTEM_MESSAGE_ALREADY_GET	Bu ünvana zaten sahipsin.
+TITLE_SYSTEM_MESSAGE_CHECK_UI	Ünvanýn kilidi açýldý: %s Ünvan menüsünden ünvana göz at.
+TITLE_SYSTEM_MESSAGE_EQUIP_TITLE	%s dnatýldý.
+TITLE_SYSTEM_MESSAGE_GET_TITLE	%s kazandýn.
+TITLE_SYSTEM_MESSAGE_ONE_HOUR_LEFT	"%s" ünvanýnýn kalan süresi 1 saattir.
+TITLE_SYSTEM_MESSAGE_TIME_END	%s süresi doldu.
+TITLE_SYSTEM_MESSAGE_TRY_LATER	Lütfen daha sonra tekrar dene.
+TITLE_SYSTEM_MESSAGE_UNEQUIP_TITLE	Kuþandýðýn ünvaný kaldýrdýn.
+TITLE_SYSTEM_MESSAGE_WRONG_APPROACH	Bu ünvan henüz mevcut deðil veya süresi dolmuþ.
+TITLE_SYSTEM_MESSAGE_WRONG_ITEM	Bu sertifika ile bu ünvaný alamazsýn. Lütfen tabloya bak.
+TITLE_SYSTEM_OPEN_TITLE_UI	Ünvan menüsünü aç
+TITLE_SYSTEM_TEXT_TITLE	Ünvan
+TITLE_SYSTEM_TOOLTIP_BACK_BUTTON	Donatýlan ünvaný göster
+TITLE_SYSTEM_TOOLTIP_GET_CONDITION	Gereksinim: %s
+TITLE_SYSTEM_TOOLTIP_ITEM_TIME_LEFT	Kalan süre:
+TITLE_SYSTEM_TOOLTIP_LEFT_TIME	Kalan süre: %s
+TITLE_SYSTEM_TOOLTIP_TITLE_INFINITE	Devamlý olarak
+TITLE_SYSTEM_TOOLTIP_TITLE_TIME_LEFT	Ünvan süresi:
+TITLE_SYSTEM_TOOLTIP_USE_INFINITE	Kalýcý olarak kullanýlabilir.
+TITLE_SYSTEM_TOOLTIP_WARNING_TIME	Bu eþya süresi dolduktan sonra kullanýlamaz.
+TITLE_SYSTEM_USE_SCROLL_QUESTION	Sertifikayý kullanmak istiyor musun?

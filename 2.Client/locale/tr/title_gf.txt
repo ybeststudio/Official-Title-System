@@ -1,0 +1,6 @@
+1000	1005	0	Þanslý	Aylýk Metin+ çekiliþinde kazan	Bu ünvanýn kilidini karakterin için anýnda açar.	2025-08-08 10:00	0
+1001	3000	0	Metin+	Aktif bir Metin+ üyeliðine sahip ol.	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumuna göre otomatik olarak ayarlanacaktýr.	2025-08-08 10:00	0
+1002	1003	0	Destansý	Metin+ üyeliðinde "Destansý" veya daha yüksek rütbeye sahip ol.	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumuna göre otomatik olarak ayarlanacaktýr.	2025-08-08 10:00	0
+1003	1003	0	Efsanevi	Metin+ üyeliðinde "Efsanevi" veya daha yüksek rütbeye sahip ol.	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumuna göre otomatik olarak ayarlanacaktýr.	2025-08-08 10:00	0
+1004	1003	0	Mistik	Metin+ üyeliðinde "Mistik" veya daha yüksek rütbeye sahip ol.	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumuna göre otomatik olarak ayarlanacaktýr.	2025-08-08 10:00	0
+1005	1000	0	Güneþsever	2025 Yaz Tombalasý'nda kazanýlabilir.	Bu ünvanýn kilidini karakterin için anýnda açar.	2025-08-01 00:00	0
