@@ -1,0 +1,4 @@
+
+57000	Kýrmýzý sertifika
+57001	Mavi sertifika
+57002	Yeþil sertifika
