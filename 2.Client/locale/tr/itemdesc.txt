@@ -1,0 +1,5 @@
+
+
+57000	Kýrmýzý sertifika	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumnuna göre otomatik olarak ayarlanacaktýr. | Ünvan süresi: | 1g
+57001	Mavi sertifika	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumnuna göre otomatik olarak ayarlanacaktýr. | Ünvan süresi: | 1g
+57002	Yeþil sertifika	Bu ünvanýn kilidini karakterin için anýnda açar. Ünvanýn süresi, Metin+ üyeliðinin güncel durumnuna göre otomatik olarak ayarlanacaktýr. | Ünvan süresi: | 1g
